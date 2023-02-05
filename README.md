@@ -1,1 +1,1 @@
-# These are all projects I have completed from freecodecamp.org under the "Responsive Web Design" course.
+# A simple cat photo website using only HTML from the responsive web design course on freecodecamp.org.
